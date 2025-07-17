@@ -120,3 +120,12 @@ Thank you.
 
 — *The Surya Software Initiative (TSSI)*
 
+## Support the Project
+
+If you find this free tool and/or initiative useful and want to support continued development, you can donate Bitcoin anonymously:
+
+`bc1qtrvhxwlqux246c6q90f3w6hmyyq5f5h7ekaytl`
+
+This wallet is for public, anonymous donations only. Please do not send messages or personal information to the blockchain.
+
+Thank you. Namaste. Shalom. Selam. Peace. 
