@@ -1,13 +1,13 @@
 # 🛡️ The Freedom From Spyware Scanner
 **Version:** 1.0 (Free Edition)  
-**Language:** ANSI C (Cross-Platform)  
+**Mission:** Digital and Humanitarian  
 **Developer:** The Surya Software Initiative (TSSI)
 
 ---
 
 ## 🌍 About This Project
 
-The **Freedom From Spyware Scanner** is a secure, offline, cross-platform spyware detection tool written in ANSI C. It scans your system for some of the most dangerous spyware strains using lightweight, self-contained code — with **no cloud**, **no installation**, and **no tracking**.
+The **Freedom From Spyware Scanner** is a secure, offline, cross-platform spyware detection tool that scans your system for some of the most dangerous spyware strains using lightweight, self-contained code — with **no cloud**, **no installation**, and **no tracking**.
 
 This project is built for **privacy**, **clarity**, and **functionality** — with the core mission of helping people stay safe from malicious surveillance.
 
@@ -51,8 +51,8 @@ Your support helps:
 ## 🔐 Key Features
 
 - ✅ Signature-Based Spyware Detection  
-- ✅ XOR-Obfuscated Signatures (RAM-only)  
-- ✅ Anti-Debugging Techniques (macOS/Linux)  
+- ✅ Up-To-Date Core Signature IDs  
+- ✅ Cross Platform (MacOS/Windows)  
 - ✅ Fully Offline — No Cloud Dependencies  
 - ✅ Signature Match Displayed on Detection  
 
@@ -78,7 +78,7 @@ All you need to know is this:
 
 ## 💻 How to Use
 
-1. Download the executable for your platform (Windows, macOS)  
+1. Download the executable for your platform (Windows, MacOS)  
 2. Open via Terminal or Console  
 3. Accept the disclaimer  
 4. Choose the drive to scan  
@@ -120,7 +120,7 @@ Thank you.
 
 — *The Surya Software Initiative (TSSI)*
 
-## Support the Project
+## Please support this project
 
 If you find this free tool and/or initiative useful and want to support continued development, you can donate Bitcoin anonymously:
 
@@ -128,4 +128,4 @@ If you find this free tool and/or initiative useful and want to support continue
 
 This wallet is for public, anonymous donations only. Please do not send messages or personal information to the blockchain.
 
-Thank you. Namaste. Shalom. Selam. Peace. 
+Thank you. Gracias. Obrigado. Merci. Namaste. Shalom. Selam. Peace. 
