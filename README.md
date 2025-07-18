@@ -88,7 +88,7 @@ All you need to know is this:
 8. Please consult with a qualified cybersecurity professional if needed. 
 9. Press Enter to exit safely.
 
-No installation. No registry entries. No phone-home behavior.  
+No installation. No registry entries. No advertisements. No tracking.   
 **Just you and your machine.**
 
 ---
