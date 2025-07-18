@@ -78,12 +78,15 @@ All you need to know is this:
 
 ## 💻 How to Use
 
-1. Download the executable for your platform (Windows, MacOS)  
-2. Open via Terminal or Console  
-3. Accept the disclaimer  
-4. Choose the drive to scan  
-5. Review any matches  
-6. Press Enter to exit safely
+1. Download the executable for your platform (Windows, MacOS).  
+2. Double-click and the freedom-from-spyware scanner program opens automatically in the Mac Terminal app / Windows DOS/Console app.  
+3. Accept the disclaimer and then press Enter/Return to run the freedom-from-spyware scanner.  
+4. Depending on your machine, the program might ask for permission to scan additional drives. Choose Yes to allow.  
+5. The program takes less than a minute to run and complete its scan. Review any matches (spyware signatures found).  
+6. Based on the results, you can decide what solution to use going forward.
+7. Spyware, like Malware, is precarious. It is sometimes hard to remove/delete.
+8. Please consult with a qualified cybersecurity professional if needed. 
+9. Press Enter to exit safely.
 
 No installation. No registry entries. No phone-home behavior.  
 **Just you and your machine.**
