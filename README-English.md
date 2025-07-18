@@ -19,10 +19,10 @@ This project is born from direct personal experience.
 
 After being **hacked**, I lost:
 - 💸 My cryptocurrency savings  
-- 💻 My laptop  
-- 🌐 Even my router  
+- 💻 My Windows laptop  
+- 🌐 My WIFI router  
 
-The breach was made possible through a **compromised open-source library** used by a widely trusted cryptocurrency wallet (unnamed here). The injected malware would **scan devices**, and if the wallet was present, it would silently launch an attack.
+The breach was made possible through a **compromised open-source library** used by a widely trusted cryptocurrency wallet (which I prefer not to name here). The injected malware would **scan the computer/device**, and if this wallet was present, it would silently launch an attack by recording keyboard activity (keylogger) and then through a hidden communications app relay this info back to some kind of intelligence center, which was probably decoded by AI itself, and then when you revisit your wallet, suddenly it is empty. Horrific and real. Crime without consequences. 
 
 Even a **professional antivirus solution** failed to detect it.
 
