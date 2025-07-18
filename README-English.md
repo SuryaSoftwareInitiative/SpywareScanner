@@ -131,7 +131,7 @@ If you find this free tool and/or initiative useful and want to support continue
 
 This wallet is for public, anonymous donations only. Please do not send messages or personal information to the blockchain.
 
-Thank you (in the 100 top languages of the world): Thank you (English), 谢谢 (Xièxiè) (Mandarin Chinese), Gracias (Spanish)
+Thank you (in the 100 top languages of the world): Thank you (English), Gracias (Spanish),
 धन्यवाद (Dhanyavaad) (Hindi), شكراً (Shukran) (Arabic), ধন্যবাদ (Dhonnobad) (Bengali), Obrigado / Obrigada (Portuguese), 
 Спасибо (Spasibo) (Russian), شکریہ (Shukriya) (Urdu), Terima kasih (Indonesian), Danke (Standard German), ありがとう (Arigatou) (Japanese), 
 Asante (Swahili), धन्यवाद (Dhanyavaad) (Marathi), ధన్యవాదాలు (Dhanyavaadalu) (Telugu), Teşekkür ederim (Turkish), 감사합니다 (Gamsahamnida) (Korean), 
