@@ -150,7 +150,7 @@ Diolch (Welsh), Go raibh maith agat (Irish), Благодарам (Blagodaram) (
 Faleminderit (Albanian), გმადლობთ (Gmadlobt) (Georgian), ຂອບໃຈ (Khop chai) (Lao), Sulpayki (Quechua), Mèsi (Haitian Creole), 
 Ngā mihi (Maori), Vinaka (Fijian), Fa'afetai (Samoan), Mālō (Tongan), Takk (Icelandic), Merci (Luxembourgish), Grazzi (Maltese), 
 Dankon (Esperanto), Tanke (Frisian), Ke a leboga (Tswana), Jërëjëf (Wolof), Qujanaq (Greenlandic), Aguyje (Guarani), 
-A jaaraama (Fula), የቐንየለይ (Yekenyeley) (Tigrinya), Zikomo (Chichewa), Urakoze (Kirundi), Ndatenda (Shona), Spas (Kurdish).
+A jaaraama (Fula), የቐንየለይ (Yekenyeley) (Tigrinya), Zikomo (Chichewa), Urakoze (Kirundi), Ndatenda (Shona), Spas (Kurdish). 
 
 
 
