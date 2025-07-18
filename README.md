@@ -1,5 +1,5 @@
 # 🛡️ The Freedom From Spyware Scanner
-**Version:** 1.0 (Free Edition)  
+**Version:** 1.0 (2025 Free Edition)  
 **Mission:** Digital and Humanitarian  
 **Developer:** The Surya Software Initiative (TSSI)
 
